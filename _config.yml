@@ -23,4 +23,4 @@ markdown: kramdown
 port: 4000
 highlighter: rouge
 # theme: minima
-# paginate: 10
+paginate: 8
